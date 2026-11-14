@@ -1,0 +1,9 @@
+{
+  "key.cooldownhud.cycle_position": "Zmień róg cooldownów",
+  "category.cooldownhud": "Cooldown HUD",
+  "message.cooldownhud.position": "Cooldown HUD: %s",
+  "cooldownhud.corner.bottom_left": "lewy dolny róg",
+  "cooldownhud.corner.bottom_right": "prawy dolny róg",
+  "cooldownhud.corner.top_left": "lewy górny róg",
+  "cooldownhud.corner.top_right": "prawy górny róg"
+}

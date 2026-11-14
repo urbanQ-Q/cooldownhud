@@ -1,0 +1,9 @@
+{
+  "key.cooldownhud.cycle_position": "Cycle cooldown HUD corner",
+  "category.cooldownhud": "Cooldown HUD",
+  "message.cooldownhud.position": "Cooldown HUD: %s",
+  "cooldownhud.corner.bottom_left": "bottom left",
+  "cooldownhud.corner.bottom_right": "bottom right",
+  "cooldownhud.corner.top_left": "top left",
+  "cooldownhud.corner.top_right": "top right"
+}
